@@ -1,0 +1,13 @@
+QuickMain.scala
+**/target/**
+**/*.iml
+**/project/**
+**/*.jar
+**/*.class
+**/.idea/**
+sbt.sh
+**/*.zip
+**/Testing/*
+**/*.classpath
+**/*.project
+**/.settings/**
